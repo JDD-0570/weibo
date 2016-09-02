@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/ms/Documents/weibo/weibo/Classes/Main/Controller/JDDTabBarController.m \
+  /Users/ms/Documents/weibo/weibo/weibo.pch \
+  /Users/ms/Documents/weibo/weibo/Classes/Main/Category/UIView+Extension.h \
+  /Users/ms/Documents/weibo/weibo/Classes/Main/Category/UIBarButtonItem+Extension.h \
+  /Users/ms/Documents/weibo/weibo/Classes/Main/Category/UIImage+Extension.h \
+  /Users/ms/Documents/weibo/weibo/Classes/Discover/View/JDDSearchBar.h \
+  /Users/ms/Documents/weibo/weibo/Classes/Home/View/JDDTitleButton.h \
+  /Users/ms/Documents/weibo/weibo/Classes/Main/Category/MBProgressHUD+JDD.h \
+  /Users/ms/Documents/weibo/weibo/Classes/Main/Tool/JDDControllerTool.h \
+  /Users/ms/Documents/weibo/weibo/Classes/Main/Model/JDDAccount.h \
+  /Users/ms/Documents/weibo/weibo/Classes/Main/Tool/JDDAccountTool.h \
+  /Users/ms/Documents/weibo/weibo/Classes/Main/Tool/JDDHttpTool.h \
+  /Users/ms/Documents/weibo/weibo/Classes/Main/Controller/JDDTabBarController.h \
+  /Users/ms/Documents/weibo/weibo/Classes/Home/Controller/JDDHomeViewController.h \
+  /Users/ms/Documents/weibo/weibo/Classes/Discover/Controller/JDDDiscoverViewController.h \
+  /Users/ms/Documents/weibo/weibo/Classes/Message/Controller/JDDMessageViewController.h \
+  /Users/ms/Documents/weibo/weibo/Classes/Profile/Controller/JDDProfileViewController.h \
+  /Users/ms/Documents/weibo/weibo/Classes/Main/Controller/JDDNavigationController.h \
+  /Users/ms/Documents/weibo/weibo/Classes/Main/View/JDDTabBar.h \
+  /Users/ms/Documents/weibo/weibo/Classes/Compose/Controller/JDDComposeViewController.h
